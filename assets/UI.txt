@@ -1,0 +1,61 @@
+UI.png
+size: 700, 1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+insideArrowCircle
+  rotate: false
+  xy: 171, 173
+  size: 171, 173
+  orig: 171, 173
+  offset: 0, 0
+  index: -1
+outsideArrowCircle
+  rotate: false
+  xy: 0, 173
+  size: 171, 173
+  orig: 171, 173
+  offset: 0, 0
+  index: -1
+pauseBlockMenu
+  rotate: false
+  xy: 0, 346
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1
+pausebtnRed
+  rotate: false
+  xy: 342, 173
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+playbtnRed
+  rotate: false
+  xy: 513, 0
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+questionGreen
+  rotate: false
+  xy: 171, 0
+  size: 171, 173
+  orig: 171, 173
+  offset: 0, 0
+  index: -1
+quitGray
+  rotate: false
+  xy: 0, 0
+  size: 171, 173
+  orig: 171, 173
+  offset: 0, 0
+  index: -1
+replayGreen
+  rotate: false
+  xy: 342, 0
+  size: 171, 173
+  orig: 171, 173
+  offset: 0, 0
+  index: -1
